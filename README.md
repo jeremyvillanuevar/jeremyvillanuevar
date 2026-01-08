@@ -26,17 +26,11 @@ Soy un perfil **híbrido** apasionado por la intersección entre la tecnología 
 | **Herramientas** | `Docker`, `Git`, `Terraform`, `Power BI` |
 
 ---
-
-### 📊 Mis Estadísticas de GitHub:
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvillanuevar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvillanuevar&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📫 Conectemos:
 
-- **LinkedIn:** [Tu Perfil de LinkedIn Aquí](https://linkedin.com/in/jeremyvillanueva)
+- **LinkedIn:** [Jeremy Villanueva](https://linkedin.com/in/jeremyvillanueva)
 - **Ubicación:** Lima, Perú 🇵🇪
 
 ---
