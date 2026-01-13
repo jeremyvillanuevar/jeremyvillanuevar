@@ -1,23 +1,24 @@
-# Buen día, Soy Jeremy Marck Villanueva Rivera 👋
+# Hi, I'm Jeremy 👋
 
-### 🚀 Data Engineer | Economist | Mg Economy Candidate | AI & Cloud Strategist
+### 🚀 Software Engineer | Economist | Master’s in Economics Candidate | AI & Cloud Strategist
 
-Soy un perfil **híbrido** apasionado por la intersección entre la tecnología de datos, la nube y las finanzas corporativas.
-
----
-
-### 🛠️ Lo que traigo a la mesa:
-- **Cloud Infrastructure:** Experiencia práctica en **AWS** (implementación de Landing Zone, Organizations, Service Control Policies).
-- **Data Analysis & Statistics:** Dominio de **R** y **Python** para análisis econométrico y financiero.
-- **Finanzas Corporativas:** Maestrando en Economía (UNMSM). Especializado en valuación y modelos de riesgo.
-- **Especialidad:** Automatización de procesos y despliegue de infraestructuras como código (IaC).
+I am a **hybrid professional** passionate about the intersection of data technology, cloud computing, and corporate finance.
 
 ---
 
-### 📫 Conectemos:
+### 🛠️ What I bring to the table:
+
+- **Cloud Infrastructure:** Hands-on experience in **AWS**, including the implementation of Landing Zones, Organizations, and Service Control Policies.
+- **Data Analysis & Statistics:** Proficiency in **R** and **Python** for econometric and financial analysis.
+- **Corporate Finance:** Master’s in Economics Candidate at UNMSM. Specialized in valuation, capital structure, and risk modeling.
+- **Technical Specialty:** Process automation and Infrastructure as Code (IaC) deployment.
+
+---
+
+### 📫 Let's Connect:
 
 - **LinkedIn:** [Jeremy Villanueva](https://linkedin.com/in/jeremyvillanueva)
-- **Ubicación:** Lima, Perú 🇵🇪
-- **Idiomas:** Español (Nativo) | Inglés (C2 Proficient)
-- 
+- **Location:** Lima, Peru 🇵🇪
+- **Languages:** Spanish (Native) | English (C2 Proficient)
+
 ---
