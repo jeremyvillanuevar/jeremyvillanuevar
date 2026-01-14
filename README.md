@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy 👋
 
-### 🚀 Software Engineer | Economist | Master’s in Economics Candidate | AI & Cloud Strategist
+### 🚀 Software Engineer | Master’s in Economics Candidate | AI & Cloud Strategist
 
 I am a **hybrid professional** passionate about the intersection of data technology, cloud computing, and corporate finance.
 
