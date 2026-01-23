@@ -1,17 +1,22 @@
-# Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy Villanueva👋
 
-### 🚀 Software Engineer | Master’s in Economics Candidate | AI & Cloud Strategist
-
-I am a **hybrid professional** passionate about the intersection of data technology, cloud computing, and corporate finance.
+### 🚀 Software Engineer | Master’s in Economics Candidate | Architecting Data Solutions that drive Financial Value
 
 ---
 
-### 🛠️ What I bring to the table:
+### 🚀 Strategic Focus 2026
+- **Data Architecture:** Designing scalable Lakehouse environments (Databricks/Azure).
+- **Financial Engineering:** Applying Econometrics and Financial Modeling to Risk Management.
+- **Generative AI:** Building LLM-powered agents to reduce technical debt and friction.
 
-- **Cloud Infrastructure:** Hands-on experience in **AWS**, including the implementation of Landing Zones, Organizations, and Service Control Policies.
-- **Data Analysis & Statistics:** Proficiency in **R** and **Python** for econometric and financial analysis.
-- **Corporate Finance:** Master’s in Economics Candidate at UNMSM. Specialized in valuation, capital structure, and risk modeling.
-- **Technical Specialty:** Process automation and Infrastructure as Code (IaC) deployment.
+### 🛠️ The Stack
+- **Cloud:** AWS (Architect Associate), Azure (Fundamentals), Huawei Cloud.
+- **Data & AI:** Python (PySpark/Pandas), R (Econometrics), LangChain, FAISS.
+- **Governance:** DAMA-DMBOK, TOGAF, Data Ownership Models.
+
+
+### 📊 Latest Work
+- [GenAI Assistant]: LLM-powered "Second Brain" using RAG.
 
 ---
 
